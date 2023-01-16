@@ -1,0 +1,85 @@
+{
+  "//Comment": "Defines the size of each frame for the animation of the skeleton moving right",
+  "frames": [{
+      "name": "sprite-00",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "w": 50,
+        "h": 50
+      }
+    },
+    {
+      "name": "sprite-01",
+      "position": {
+        "x": 50,
+        "y": 0,
+        "w": 50,
+        "h": 50
+      }
+    },
+    {
+      "name": "sprite-02",
+      "position": {
+        "x": 100,
+        "y": 0,
+        "w": 50,
+        "h": 50
+      }
+    },
+    {
+      "name": "sprite-03",
+      "position": {
+        "x": 150,
+        "y": 0,
+        "w": 50,
+        "h": 50
+      }
+    },
+    {
+      "name": "sprite-04",
+      "position": {
+        "x": 200,
+        "y": 0,
+        "w": 50,
+        "h": 50
+      }
+    },
+    {
+      "name": "sprite-05",
+      "position": {
+        "x": 250,
+        "y": 0,
+        "w": 50,
+        "h": 50
+      }
+    },
+    {
+      "name": "sprite-06",
+      "position": {
+        "x": 300,
+        "y": 0,
+        "w": 50,
+        "h": 50
+      }
+    },
+        {
+      "name": "sprite-07",
+      "position": {
+        "x": 350,
+        "y": 0,
+        "w": 50,
+        "h": 50
+      }
+    },
+        {
+      "name": "sprite-08",
+      "position": {
+        "x": 400,
+        "y": 0,
+        "w": 50,
+        "h": 50
+      }
+    }
+  ]
+}
